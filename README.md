@@ -25,3 +25,5 @@ In the evaluation phase, machine learning models are tested on unseen data to ch
 5) Real-Time Detection with Sensor Data:
 In more advanced applications, diabetes detection can be enhanced with real-time data, such as continuous glucose monitoring (CGM). Machine learning models using this data can track changes in a patient's glucose levels. The cursor could then represent how the model "navigates" through real-time data, detecting any sudden increases in glucose levels and making immediate predictions about potential diabetes events.
 
+6] screenshort are there:-
+
